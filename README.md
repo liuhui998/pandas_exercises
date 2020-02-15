@@ -1,76 +1,83 @@
-# Pandas Exercises
+# Pandas习题集介绍
 
-Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
-Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
+    译者言：我现在在做一个Python培训班，在上Pandas的练习，发现了这本习题集，于是试译一下，看看能不能给班上的同学有帮助。
 
-There will be three different types of files:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Exercise instructions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solutions without code  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solutions with code and comments
 
-My suggestion is that you learn a topic in a tutorial, video or documentation and then do the first exercises.
-Learn one more topic and do more exercises. If you are stuck, don't go directly to the solution with code files. Check the solutions only and try to get the correct answer.
+看了很多的Pandas教程，但是很难找到习题集，于我决定写一本。
 
-Suggestions and collaborations are more than welcome.🙂 Please open an issue or make a PR indicating the exercise and your problem/solution.
+但是不要误解我，教程是很重要的资源，但是如果你不去练习，你永远学不会。
 
-# Lessons
+每一个习题里有会三类文件：
 
-|				                                  |				                                   |                   |
-|:-----------------------------------------------:|:----------------------------------------------:|:-----------------:|
-|[Getting and knowing](#getting-and-knowing)      | [Merge](#merge)                                |[Time Series](#time-series)|
-|[Filtering and Sorting](#filtering-and-sorting)  | [Stats](#stats)                                |[Deleting](#deleting)       |
-|[Grouping](#grouping)							  | [Visualization](#visualization)                |Indexing           |
-|[Apply](#apply)							      | [Creating Series and DataFrames](#creating-series-and-dataframes) 		            |Exporting|
+1. 题目描述文件： Exercises.ipynb 
+2. 题目分析文件（不含代码）： Solutions.ipynb 
+3. 题目答案文件：（含代码）Exercise_with_Solutions.ipynb
 
-### [Getting and knowing](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
-[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
-[World Food Facts](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
+我的建议是用一个教程（视频/文档）学一个主题，然后再做一个练习。
 
-### [Filtering and Sorting](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  
-[Euro12](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Euro12)  
-[Fictional Army](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
+学了更多的主题，再做更多的习题。如果碰到了困难，一般不要直接看答案，建议你再想想办法。
 
-### [Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping)
-[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
-[Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Occupation)  
-[Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Regiment)
 
-### [Apply](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply)
-[Students Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply/Students_Alcohol_Consumption)  
-[US_Crime_Rates](https://github.com/guipsamora/pandas_exercises/tree/master/04_Apply/US_Crime_Rates)     
 
-### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge)
-[Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
-[Fictitious Names](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
-[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
-### [Stats](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats)
-[US_Baby_Names](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
-[Wind_Stats](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats/Wind_Stats)
+# 习题集
 
-### [Visualization](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization)
-[Chipotle](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Chipotle)  
-[Titanic Disaster](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Titanic_Desaster)  
-[Scores](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Scores)  
-[Online Retail](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Online_Retail)  
-[Tips](https://github.com/guipsamora/pandas_exercises/tree/master/07_Visualization/Tips)  
 
-### [Creating Series and DataFrames](https://github.com/guipsamora/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames)  
-[Pokemon](https://github.com/guipsamora/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)  
 
-### [Time Series](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series)  
-[Apple_Stock](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  
-[Getting_Financial_Data](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
-[Investor_Flow_of_Funds_US](https://github.com/guipsamora/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
+### [起步](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
+[餐厅用餐数据分析](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
+[Occupation](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
+[World Food Facts](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
-### [Deleting](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting)  
-[Iris](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Iris)  
-[Wine](https://github.com/guipsamora/pandas_exercises/tree/master/10_Deleting/Wine)  
+### [过滤排序](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
+[Chipotle](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  
+[Euro12](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Euro12)  
+[Fictional Army](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
-# Video Solutions
+### [数据分组](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping)
+[Alcohol Consumption](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
+[Occupation](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation)  
+[Regiment](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Regiment)
+
+### [Apply](https://github.com/liuhui998/pandas_exercises/tree/master/04_Apply)
+[Students Alcohol Consumption](https://github.com/liuhui998/pandas_exercises/tree/master/04_Apply/Students_Alcohol_Consumption)  
+[US_Crime_Rates](https://github.com/liuhui998/pandas_exercises/tree/master/04_Apply/US_Crime_Rates)     
+
+### [数据合并](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge)
+[Auto_MPG](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
+[Fictitious Names](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
+[House Market](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
+
+### [数据统计](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats)
+[US_Baby_Names](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
+[Wind_Stats](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/Wind_Stats)
+
+### [可视化](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization)
+[Chipotle](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Chipotle)  
+[Titanic Disaster](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Titanic_Desaster)  
+[Scores](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Scores)  
+[Online Retail](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Online_Retail)  
+[Tips](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Tips)  
+
+### [手工创建 Series 和 DataFrames](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames)  
+[Pokemon](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)  
+
+### [时间序例 Time Series](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series)  
+[Apple_Stock](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  
+[Getting_Financial_Data](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
+[Investor_Flow_of_Funds_US](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
+
+### [数据清洗](https://github.com/liuhui998/pandas_exercises/tree/master/10_Deleting)  
+[Iris](https://github.com/liuhui998/pandas_exercises/tree/master/10_Deleting/Iris)  
+[Wine](https://github.com/liuhui998/pandas_exercises/tree/master/10_Deleting/Wine)  
+
+
+# 视频
 
 Video tutorials of data scientists working through the above exercises:
 
 [Data Talks - Pandas Learning By Doing](https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv)
+
+# 协作
+
+Suggestions and collaborations are more than welcome.🙂 Please open an issue or make a PR indicating the exercise and your problem/solution.
