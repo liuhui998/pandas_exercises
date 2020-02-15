@@ -25,7 +25,7 @@
 
 
 ### [起步](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
-[餐厅用餐数据分析](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle)  
+[餐厅用餐数据分析](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercise_with_Solutions.ipynb)）    
 [Occupation](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  
 [World Food Facts](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
