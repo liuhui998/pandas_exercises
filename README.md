@@ -49,21 +49,21 @@
 ### [数据合并](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
 [Fictitious Names](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
-[House Market](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
+[房屋市场数据](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
 ### [数据统计](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats)
-[US_Baby_Names](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
+[ 美国婴儿姓名](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
 [Wind_Stats](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/Wind_Stats)
 
 ### [可视化](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization)
-[Chipotle](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Chipotle)  
-[Titanic Disaster](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Titanic_Desaster)  
+[餐厅消费数据](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Chipotle)  
+[泰坦尼克事故数据](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Titanic_Desaster)  
 [Scores](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Scores)  
 [Online Retail](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Online_Retail)  
 [Tips](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Tips)  
 
 ### [手工创建 Series 和 DataFrames](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames)  
-[Pokemon](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)  
+[口袋妖怪游戏数据](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)  
 
 ### [时间序例 Time Series](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series)  
 [Apple_Stock](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  
