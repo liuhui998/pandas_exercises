@@ -38,7 +38,8 @@
 [Fictional Army](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
 ### [数据分组](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping)
-[酒水消费数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
+[酒水消费数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption/Exercise_with_Solutions.ipynb)）
+
 [用户职业数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation)  
 [Regiment](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Regiment)
 
@@ -49,7 +50,7 @@
 ### [数据合并](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
 
-[跨表联合查询](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names/Exercise_with_Solutions.ipynb)）
+[跨表联合查询](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names/Exercise_with_Solutions.ipynb)）[重要]
 
 [房屋市场数据](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
