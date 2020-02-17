@@ -38,8 +38,8 @@
 [Fictional Army](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
 ### [数据分组](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping)
-[Alcohol Consumption](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
-[Occupation](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation)  
+[酒水消费数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
+[用户职业数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation)  
 [Regiment](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Regiment)
 
 ### [Apply](https://github.com/liuhui998/pandas_exercises/tree/master/04_Apply)
