@@ -70,7 +70,8 @@
 [口袋妖怪游戏数据](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)  
 
 ### [时间序例 Time Series](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series)  
-[苹果公司股价](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  
+[苹果公司股价](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock/Exercise_with_Solutions.ipynb) ）
+
 [从 Google Finance 拉取股价数据](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
 [Investor_Flow_of_Funds_US](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
 
