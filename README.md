@@ -24,15 +24,17 @@
 
 
 
-### [起步](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
-[餐厅用餐数据分析](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercise_with_Solutions.ipynb)）    
-[用户职业数据分析](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation/Exercise_with_Solution.ipynb)）    
+### [怎么查看数据](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data)  
+[餐厅用餐数据](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercise_with_Solutions.ipynb)）    
+[用户职业数据](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/Occupation/Exercise_with_Solution.ipynb)）    
 
 [World Food Facts](https://github.com/liuhui998/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts)
 
 ### [过滤排序](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
-[Chipotle](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  
-[Euro12](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Euro12)  
+
+[餐厅用餐数据](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle/Exercise_with_Solutions.ipynb)）
+
+[欧洲球赛数据](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Euro12)  
 [Fictional Army](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
 ### [数据分组](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping)
