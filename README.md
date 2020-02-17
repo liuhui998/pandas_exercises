@@ -55,7 +55,8 @@
 [房屋市场数据](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
 ### [数据统计](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats)
-[ 美国婴儿姓名](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
+[美国婴儿名字](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names/Exercise_with_Solutions.ipynb)）
+
 [Wind_Stats](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/Wind_Stats)
 
 ### [可视化](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization)
