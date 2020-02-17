@@ -67,7 +67,7 @@
 [Tips](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Tips)  
 
 ### [手工创建 Series 和 DataFrames](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames)  
-[口袋妖怪游戏数据](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)  
+[口袋妖怪游戏数据](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)）
 
 ### [时间序例 Time Series](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series)  
 [苹果公司股价](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock/Exercise_with_Solutions.ipynb) ）
