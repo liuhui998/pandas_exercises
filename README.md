@@ -40,7 +40,7 @@
 ### [数据分组](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping)
 [酒水消费数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption/Exercise_with_Solutions.ipynb)）
 
-[用户职业数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation)  
+[用户职业数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation/Exercises_with_solutions.ipynb)）  
 [Regiment](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Regiment)
 
 ### [Apply](https://github.com/liuhui998/pandas_exercises/tree/master/04_Apply)
@@ -70,7 +70,7 @@
 [口袋妖怪游戏数据](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)）
 
 ### [时间序例 Time Series](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series)  
-[苹果公司股价](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock/Exercise_with_Solutions.ipynb) ）
+[苹果公司股价](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock/Exercises-with-solutions-code.ipynb) ）
 
 [从 Google Finance 拉取股价数据](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
 [Investor_Flow_of_Funds_US](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
