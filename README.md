@@ -76,7 +76,8 @@
 [Investor_Flow_of_Funds_US](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Getting_Financial_Data)  
 
 ### [数据清洗](https://github.com/liuhui998/pandas_exercises/tree/master/10_Deleting)  
-[植物数据](https://github.com/liuhui998/pandas_exercises/tree/master/10_Deleting/Iris)  
+[植物数据](https://github.com/liuhui998/pandas_exercises/tree/master/10_Deleting/Iris)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/10_Deleting/Iris/Exercises_with_solutions_and_code.ipynb) ）
+
 [葡萄酒数据](https://github.com/liuhui998/pandas_exercises/tree/master/10_Deleting/Wine)  
 
 
