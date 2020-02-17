@@ -48,7 +48,9 @@
 
 ### [数据合并](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
-[Fictitious Names](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
+
+[跨表联合查询](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names/Exercise_with_Solutions.ipynb)）
+
 [房屋市场数据](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
 ### [数据统计](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats)
