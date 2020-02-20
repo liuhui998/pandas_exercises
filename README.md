@@ -32,7 +32,7 @@
 
 ### [过滤排序](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting)
 
-[餐厅用餐数据](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle/Exercise_with_Solutions.ipynb)）
+[餐厅用餐数据](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Chipotle/Exercises_with_solutions.ipynb)）
 
 [欧洲球赛数据](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Euro12)  
 [Fictional Army](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
@@ -50,7 +50,7 @@
 ### [数据合并](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
 
-[跨表联合查询](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names/Exercise_with_Solutions.ipynb)）[重要]
+[跨表联合查询](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Fictitous%20Names/Exercises_with_solutions.ipynb)）[重要]
 
 [房屋市场数据](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
