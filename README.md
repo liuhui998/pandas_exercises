@@ -38,7 +38,7 @@
 [Fictional Army](https://github.com/liuhui998/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
 ### [数据分组](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping)
-[酒水消费数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption/Exercise_with_Solutions.ipynb)）
+[酒水消费数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption/Exercise_with_solutions.ipynb)）
 
 [用户职业数据](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Occupation/Exercises_with_solutions.ipynb)）  
 [Regiment](https://github.com/liuhui998/pandas_exercises/tree/master/03_Grouping/Regiment)
@@ -55,7 +55,8 @@
 [房屋市场数据](https://github.com/liuhui998/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
 ### [数据统计](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats)
-[美国婴儿名字](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names/Exercise_with_Solutions.ipynb)）
+[美国婴儿名字](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/US_Baby_Names/Exercises_with_solutions.ipynb)）
+
 
 [Wind_Stats](https://github.com/liuhui998/pandas_exercises/tree/master/06_Stats/Wind_Stats)
 
@@ -67,7 +68,7 @@
 [Tips](https://github.com/liuhui998/pandas_exercises/tree/master/07_Visualization/Tips)  
 
 ### [手工创建 Series 和 DataFrames](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames)  
-[口袋妖怪游戏数据](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon)）
+[口袋妖怪游戏数据](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon) （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/08_Creating_Series_and_DataFrames/Pokemon/Exercises-with-solutions-and-code.ipynb)）
 
 ### [时间序例 Time Series](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series)  
 [苹果公司股价](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock)  （[答案](https://github.com/liuhui998/pandas_exercises/tree/master/09_Time_Series/Apple_Stock/Exercises-with-solutions-code.ipynb) ）
